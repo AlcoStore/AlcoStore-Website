@@ -1,4 +1,4 @@
 # AlcoStore-Website
 
 # Demo
-[Play](https://veronika-jaghinyan.github.io/Tetris)
+[Play](https://github.com/AlcoStore/AlcoStore-Website)
